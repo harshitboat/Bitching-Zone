@@ -3,9 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    
 }
 body{
     background-color: rgb(241, 241, 241);
+    
 }
 .logo{
     display: flex;
@@ -28,7 +30,7 @@ body{
     margin-top: 20px;
 }
 .header h4{
-      margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 .header i{
     margin-top: 10px;
@@ -40,11 +42,67 @@ body{
     gap: 60px;
     margin: 60px;
     width: 20%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    
 
 }
+.body img{
+    border-radius: 8px;
+}
+
 .marrigeIssue{
    
-    background-color: antiquewhite;
+    background-color: rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.feelingLonely{
+    background-color: rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.trauma{
+    background-color: rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.overthinking{
+    background-color:rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.sadness{
+    background-color: rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.anixity{
+    background-color:rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.stress{
+    background-color: rgb(228, 227, 225);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.relationshipproblem{
+    background-color:rgb(228, 227, 225);
     padding: 20px;
     border-radius: 8px;
 }
