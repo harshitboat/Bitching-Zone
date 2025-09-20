@@ -61,12 +61,20 @@ body{
     padding: 20px;
     border-radius: 8px;
 }
+.marrigeIssue:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+}
 
 
 .feelingLonely{
     background-color: rgb(228, 227, 225);
     padding: 20px;
     border-radius: 8px;
+}
+.feelingLonely:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
 }
 
 
@@ -75,6 +83,10 @@ body{
     padding: 20px;
     border-radius: 8px;
 }
+.trauma:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+}
 
 
 .overthinking{
@@ -82,12 +94,19 @@ body{
     padding: 20px;
     border-radius: 8px;
 }
-
+.overthinking:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+}
 
 .sadness{
     background-color: rgb(228, 227, 225);
     padding: 20px;
     border-radius: 8px;
+}
+.sadness:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
 }
 
 
@@ -96,12 +115,20 @@ body{
     padding: 20px;
     border-radius: 8px;
 }
+.anixity:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+}
 
 
 .stress{
     background-color: rgb(228, 227, 225);
     padding: 20px;
     border-radius: 8px;
+}
+.stress:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
 }
 
 
@@ -110,6 +137,11 @@ body{
     padding: 20px;
     border-radius: 8px;
 }
+.relationshipproblem:hover{
+      transform: translateY(-12px) scale(1.09);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+}
+
 .footer{
     margin-left: 55px;
 }
