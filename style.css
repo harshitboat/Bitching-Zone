@@ -6,6 +6,7 @@
     
 }
 body{
+
     background-color: rgb(241, 241, 241);
     
 }
@@ -64,6 +65,7 @@ body{
 .marrigeIssue:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+   transition: transform 0.5s;
 }
 
 
@@ -75,6 +77,7 @@ body{
 .feelingLonely:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 
@@ -86,6 +89,7 @@ body{
 .trauma:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 
@@ -97,6 +101,7 @@ body{
 .overthinking:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 .sadness{
@@ -107,6 +112,7 @@ body{
 .sadness:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 
@@ -118,6 +124,7 @@ body{
 .anixity:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 
@@ -129,6 +136,7 @@ body{
 .stress:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 
@@ -140,6 +148,7 @@ body{
 .relationshipproblem:hover{
       transform: translateY(-12px) scale(1.09);
   box-shadow: 0 12px 30px rgba(0,0,0,0.2);
+  transition: transform 0.5s;
 }
 
 .footer{
